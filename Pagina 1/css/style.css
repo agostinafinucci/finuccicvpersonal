@@ -1,0 +1,40 @@
+/* formato */
+html {
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+}
+
+header {background-image: url('../Imagenes/pexels-eberhard-grossgasteiger-572897.jpg');
+    background-size: cover;
+    height: 300px;
+    color: white;
+    
+}
+header img {
+    height: 200px;
+    margin: 10px;
+    ;
+}
+
+header h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+#titulo {
+    text-decoration: underline;
+}
+
+.fab {
+    color: white;
+}
+
+
+
+
